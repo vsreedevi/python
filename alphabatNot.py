@@ -3,4 +3,4 @@ print(s)
 if(s>'a'):
   print("Alphabat")
 else:
-  print("Not a alphabat")
+  print("No")
